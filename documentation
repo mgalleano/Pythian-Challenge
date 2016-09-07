@@ -1,0 +1,5 @@
+Vagrant version:
+Vagrant 1.8.5
+
+Additional remarks:
+The only thing installed besides vagrant was Chef solo v12.13.37 and the cookbook used. No other plugin needed.
